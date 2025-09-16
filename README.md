@@ -16,7 +16,7 @@ Este é um projeto simples de uma API REST desenvolvida com **Python** e **Flask
 
 /main.py -> código principal da API Flask
 
-## ▶️ Como rodar
+# ▶️ Como rodar
 
 Execute o arquivo Python:
 
@@ -26,7 +26,7 @@ A API está disponível em:
 
 http://127.0.0.1:5000/api
 
-##🔄 Exemplo de resposta da API
+#🔄 Exemplo de resposta da API
 
 GET http://127.0.0.1:5000/api
 
@@ -35,7 +35,7 @@ GET http://127.0.0.1:5000/api
   "status": "API funcionando"
 }
 
-##🧪 Testando com o Insomnia
+#🧪 Testando com o Insomnia
 
 Você pode testar a API com o Insomnia:
 
