@@ -32,6 +32,7 @@ GET http://127.0.0.1:5000/api
 
 {
   "mensagem": "Ola mundo!",
+  
   "status": "API funcionando"
 }
 
